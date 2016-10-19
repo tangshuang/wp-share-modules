@@ -4,7 +4,7 @@
 Plugin Name: WP SHARE MODULES
 Plugin URI: http://www.tangshuang.net/wp-share-modules
 Description: 本插件为你提供丰富的WordPress插件、主题开发工具包，减少你的开发量。
-Version: 0.0.1
+Version: 0.1.0
 Author: 否子戈
 Author URI: http://www.tangshuang.net
 */
